@@ -1,10 +1,5 @@
 # jeu_du_nombre_pense
-L'ordinateur a choisi un nombre entier entre 1 et 10, à vous de trouver lequel ...
-
-Pour lancer le jeu : 
-- installer le langage Python sur votre ordinateur : https://www.python.org/downloads/
-- télécharger le fichier script.py sur votre ordinateur
-- double-cliquer sur le fichier (éventuellement faire un clic-droit -> Ouvrir avec -> Python)
+L'ordinateur a choisi un nombre entier entre 1 et 10, à vous de trouver lequel !
 
 ligne 1 et 2 : importation des modules nécessaires ('tkinter' pour l'interface et 'randint' pour avoir un nombre au hazard)
 ligne 4 à 9 : création de l'interface
